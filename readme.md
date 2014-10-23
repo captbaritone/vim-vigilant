@@ -12,7 +12,7 @@ install it as well. Use your plugin manager
 repositories:
 
     benmills/vimux
-    captbaritone/vigilant
+    captbaritone/vim-vigilant
 
 In your `.vimrc` set the script you use to run your tests:
 
